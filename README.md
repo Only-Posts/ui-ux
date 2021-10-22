@@ -1,3 +1,3 @@
 # ui-ux
 Интерфейс приложения
-![download](Interfaces/Creating post.png "загрузка")
+![Иллюстрация к проекту](https://github.com/Only-Posts/ui-ux/Interfaces/Creating post.png)
